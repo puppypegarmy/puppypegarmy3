@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7bEEF6c7e54131d8C9DA93C65ed03A7f5Af7153b",
+  "SCAN_LINK": "https://etherscan.io/address/0x7beef6c7e54131d8c9da93c65ed03a7f5af7153b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PuppyPegArmy",
+  "SYMBOL": "PPA",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/puppypegarmy",
+  "SHOW_BACKGROUND": true
+}
